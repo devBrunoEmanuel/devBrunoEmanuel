@@ -8,7 +8,7 @@
 <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=devBrunoEmanuel&show_icons=true&theme=dracula"/>
 <img height ="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=devBrunoEmanuel&layout=compact&langs_count=7&theme=dracula">
 </div>
-## Technologies
+Technologies
 
 <div style ="display: inline-block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
