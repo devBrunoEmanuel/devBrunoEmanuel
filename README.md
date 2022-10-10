@@ -18,6 +18,6 @@ Technologies
 
 </div><br/>
 
-I am a computer science student, I am 23 years old and I am a technology lover.
+I'm a computer science student and technology lover.
 
 ![Snake animation](https://github.com/devBrunoEmanuel/devBrunoEmanuel/blob/output/github-contribution-grid-snake.svg)
