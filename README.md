@@ -19,3 +19,5 @@ Technologies
 </div><br/>
 
 I am a computer science student, I am 23 years old and I am a technology lover.
+
+![snake gif](https://github.com/devBrunoEmanuel/devBrunoEmanuel/blob/output/github-contribution-grid-snake.gif)
